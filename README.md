@@ -33,7 +33,9 @@ Power-law fits of the form N* = a₀ &middot; C^a (model size) and D* = b₀ &mi
 | Hyena | 0.504 | 2.062 &times; 10⁻² | 0.499 | 6.756 &times; 10⁰ |
 | StripedHyena | 0.483 | 4.641 &times; 10⁻² | 0.539 | 1.099 &times; 10⁰ |
 
-Full extracted data: [evo_scaling_data.csv](outputs/evo_scaling_data.csv) | Scaling law coefficients: [evo_scaling_laws.csv](outputs/evo_scaling_laws.csv)
+Results:
+- [evo_scaling_data.csv](outputs/evo_scaling_data.csv) — extracted data points
+- [evo_scaling_laws.csv](outputs/evo_scaling_laws.csv) — scaling law coefficients
 
 ## Usage
 
